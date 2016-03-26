@@ -2145,6 +2145,10 @@
         {
             "date_tested": "A",
             "result": "A"
+        },
+        {
+            "date_tested": "A",
+            "result": "A"
         }
     ],
     "2": [
@@ -2200,10 +2204,6 @@
         }
     ],
     "B": [
-        {
-            "date_tested": "B",
-            "result": "B"
-        },
         {
             "date_tested": "B",
             "result": "B"
